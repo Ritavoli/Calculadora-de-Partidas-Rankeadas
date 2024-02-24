@@ -44,7 +44,7 @@ Ao final deve se exibir uma mensagem:
 
   
 ## SOLUÇÃO
- > A seguir é apresentado um dos codigos criados para resolução desse desafio.
+ > A seguir é apresentado o código desenvolvido para resolver este desafio, onde é  solicitado ao jogador que insira o número de vitórias e de derrotas. Em seguida, realiza o cálculo necessário e, por fim, informa o número de vitórias junto com o nível de classificação do jogador.
 
 
   function calcularNivel(vitorias, derrotas) {
